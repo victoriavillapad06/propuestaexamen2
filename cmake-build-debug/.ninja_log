@@ -1,0 +1,6 @@
+# ninja log v6
+8	123	7519394445215284	CMakeFiles/propuestaexamen2.dir/funciones/funciones.cpp.obj	ad9b700f81e895c7
+9	426	7519397555491626	build.ninja	da8477bc6dfcea4
+14	479	7519398147849311	CMakeFiles/propuestaexamen2.dir/main.cpp.obj	11aa8568384a9c52
+4	495	7519398147749189	CMakeFiles/propuestaexamen2.dir/funciones/funciones.cpp.obj	ad9b700f81e895c7
+495	664	7519398152655802	propuestaexamen2.exe	2b374dac2c4cf461
